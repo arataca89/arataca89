@@ -1,6 +1,11 @@
-### Hi there 👋
+### Samuel Arataca 👋
+## Formação:
+- Múltimidia Digital (Tecnólogo)
+- Engenharia de Software (MBA)
+- Atualmente cursando Ciência da Computação
 
-## Em construção 
+## Aulas particulares de programação C++
+- Ministro <a href=https://www.superprof.com.br/aulas-programacao-aulas-remotas-via-google-meet.html>aulas particulares</a> de programação C++ via Google Meet. 
 
 <!--
 **arataca89/arataca89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
