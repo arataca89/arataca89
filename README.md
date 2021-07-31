@@ -1,6 +1,6 @@
 ### Samuel Arataca 
 ## Formação:
-- Múltimidia Digital (Tecnólogo)
+- Multimídia Digital (Tecnólogo)
 - Engenharia de Software (MBA)
 - Estrutura de Dados (curso livre)
 - Atualmente cursando Ciência da Computação
