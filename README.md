@@ -2,6 +2,7 @@
 ## Formação:
 - Múltimidia Digital (Tecnólogo)
 - Engenharia de Software (MBA)
+- Estrtutura de Dados (curso livre)
 - Atualmente cursando Ciência da Computação
 
 ## Aulas particulares de programação C++
