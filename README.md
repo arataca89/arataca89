@@ -5,7 +5,7 @@
 - Especialização em Estrutura de Dados
 - Atualmente cursando Ciência da Computação
 
-## Aulas particulares de programação C++
+## Aulas particulares de programação C/C++
 - Ministro <a href=https://www.superprof.com.br/aulas-programacao-aulas-remotas-via-google-meet.html>aulas particulares</a> de programação C++ via Google Meet. 
 
 <!--
