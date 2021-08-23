@@ -2,7 +2,7 @@
 ## Formação:
 - Multimídia Digital (Tecnólogo)
 - Engenharia de Software (MBA)
-- Estrutura de Dados (curso livre)
+- Especialização em Estrutura de Dados
 - Atualmente cursando Ciência da Computação
 
 ## Aulas particulares de programação C++
